@@ -1,0 +1,8 @@
+q_env/
+dist/
+build/
+__pycache__/
+*.spec
+q_memory.json
+Q-Core_Release/
+*.zip
